@@ -1,5 +1,0 @@
-[1, Jakie polecenie utworzy tabelę o nazwie 'uczniowie'?(CREATE TABLE uczniowie)]
-[2, Jakie polecenie służy do wprowadzania danych do tabli?(INSERT INTO)]
-[3, Jakie polecenie utworzy tabelę o nazwie 'Nauczyciele'(CREATE TABLE Nauczyciele)]
-[4, Jaki typ danych użyć aby zapisać liczbe z przecinkiem?(DECIMAL)]
-[5, Która funkcja zwróci losową liczbę?(RAND())]
